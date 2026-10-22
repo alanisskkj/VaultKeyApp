@@ -21,8 +21,6 @@ O grupo deve desenvolver uma tela com um formulário de **Configurações & Cred
 * **AsyncStorage:** Salvar dados de preferência comuns (ex: tema claro/escuro) utilizando o `@react-native-async-storage/async-storage`.
 * **Expo SecureStore:** Salvar tokens de acesso, PIN ou chaves secretas utilizando o `expo-secure-store`.
 * **Painel Visual:** Criar uma área na interface demonstrando onde cada dado foi armazenado e explicando visualmente por que o `AsyncStorage` não deve guardar senhas.
-* **Resiliência de Dados:** Implementar blocos `try/catch/finally` para tratar exceções ao tentar processar JSONs com formato corrompido ou nulo.
-
 ---
 
 ## 🔍 Comparativo Técnico: `expo-secure-store` vs `AsyncStorage`

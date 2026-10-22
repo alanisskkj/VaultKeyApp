@@ -41,3 +41,11 @@ example
 # generated native folders
 /ios
 /android
+
+
+.vscode/
+AGENTS.md
+app.json
+LICENSE
+package-lock.json
+tsconfig.json
